@@ -348,7 +348,7 @@
 
 .footer {
     padding: 80px 0;
-    background: #999;
+    background: #f2f2f2;
 }
 
 .footer .sns {
@@ -426,5 +426,6 @@
 .to_top button {
     width: 40px;
     height: 40px;
-    background: #666;
+    background: #fa99c9;
+    border-radius: 50%;
 }
